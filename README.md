@@ -1,5 +1,5 @@
 ## Notes
-This project is a clone of John Smilga's Comfy Store  it is rewritten in React by me. 
+This project is a clone of Coding Addicts's Comfy Store Project  it is rewritten in React by me. 
 
 #### Older React Version
 
